@@ -1,4 +1,4 @@
-de11ae7cecf8d00bf0fdf91a3c757dbc *DESCRIPTION
+e8b619fd4182e034f49be9a8c03d19be *DESCRIPTION
 e1bc9299ef3f9343de6b052e42acdc53 *NAMESPACE
 1e9d09d289df5b42689225689f14e384 *NEWS.md
 7282566653d115b2c5f3eac2a082acd4 *R/catimp.R
@@ -11,7 +11,7 @@ f563d94a8e15717c3b5632c2e505cd4a *R/common.r
 673c0a8767c0cb330389b9b4197b2c54 *R/sb.r
 cb395b9f808f6e0d9bd04c1d9ba42e3c *R/wb.r
 620d3daefb720d9ceebdd0e19fc222b7 *README.md
-ba288ebdea69f46f73b4e3589f478f32 *build/partial.rdb
+f01682ffd9d5582c0d3b8a226f3c2b16 *build/partial.rdb
 f1dff65c586856a7d323595ac1424952 *data/ctsTrialWide.rda
 ef1665cabecab366f31ed88cd1d900ae *man/catImp.Rd
 fcf75db98fc6a2f2ac897b2050a79b4a *man/ctsTrialWide.Rd
